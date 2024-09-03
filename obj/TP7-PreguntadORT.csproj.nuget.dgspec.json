@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj": {}
+    "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj": {}
   },
   "projects": {
-    "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj": {
+    "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj",
+        "projectUniqueName": "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj",
         "projectName": "TP7-PreguntadORT",
-        "projectPath": "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj",
+        "projectPath": "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT.csproj",
         "packagesPath": "C:\\Users\\48311441\\.nuget\\packages\\",
-        "outputPath": "Z:\\2024\\Programacion\\TP7-PreguntadORT\\TP7-PreguntadORT\\obj\\",
+        "outputPath": "Z:\\2024\\Programacion\\TP7-PreguntadORT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
